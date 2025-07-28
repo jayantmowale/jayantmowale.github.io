@@ -1,6 +1,7 @@
 # MY PROJECTS
 ---
 
+![HEAT EXCHANGER](https://github.com/jayantmowale/jayantmowale.github.io/blob/main/imageholder/Hx.webp)
 ## Project 1:	[Line Sizing Project:](https://github.com/jayantmowale/LineSizingProject)
 - *Designed simple piping network for transport of fluid from one tank to another* 
 - *learnt general methodology to size pipes & used industry standards such as ASME 14E, ASME B36.10M, moody diagram, swamee&jain equation to create a calculation sheet in excel.*
